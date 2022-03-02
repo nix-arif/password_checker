@@ -7,7 +7,7 @@ Question:
 3. At least 1 letter between [A-Z]
 4. At least 1 character from [$#@]
 5. Minimum length of the transaction password: 6
-6. Minimum length of the transaction password: 12
+6. Maximum length of the transaction password: 12
 
 - Your program should accept a sequence of comma separated passwords and will check them according to the above criteria.
 
